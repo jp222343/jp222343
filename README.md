@@ -99,4 +99,4 @@ Hi, I'm JP!
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp222343&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-## I set all my old repositories to private, because i'm planning on making new ones!
+## I set all my old repositories to private because i'm planning on making new ones!
